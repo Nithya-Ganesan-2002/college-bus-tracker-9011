@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/college-bus-tracker-9011/college_bus_tracking_frontend"
+}
